@@ -32,8 +32,13 @@
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/9e6bdb97-4f0e-4158-9ba1-5175bcd443bb" />
 
 ## Интерфейс:
-1. Авторизация <img width="472" alt="image" src="https://github.com/user-attachments/assets/9990b2eb-698f-4f53-9651-83d2033a0955" />
-2. Профиль <img width="497" alt="image" src="https://github.com/user-attachments/assets/39adc7d0-3d70-40b8-ac56-b8a312d2da83" />
-3. Измерения <img width="748" alt="image" src="https://github.com/user-attachments/assets/728820fa-d791-4960-85d8-503d57f219df" />
-4. Статистика <img width="767" alt="image" src="https://github.com/user-attachments/assets/cf2c4ac7-65c9-4d02-b0af-9de3f421e132" />
-5. История <img width="767" alt="image" src="https://github.com/user-attachments/assets/9aa3bebd-892b-4872-bf62-f831ffc16fb1" />
+1. Авторизация
+   <img width="472" alt="image" src="https://github.com/user-attachments/assets/9990b2eb-698f-4f53-9651-83d2033a0955" />
+3. Профиль
+   <img width="497" alt="image" src="https://github.com/user-attachments/assets/39adc7d0-3d70-40b8-ac56-b8a312d2da83" />
+5. Измерения
+   <img width="748" alt="image" src="https://github.com/user-attachments/assets/728820fa-d791-4960-85d8-503d57f219df" />
+7. Статистика
+   <img width="767" alt="image" src="https://github.com/user-attachments/assets/cf2c4ac7-65c9-4d02-b0af-9de3f421e132" />
+9. История
+    <img width="767" alt="image" src="https://github.com/user-attachments/assets/9aa3bebd-892b-4872-bf62-f831ffc16fb1" />
